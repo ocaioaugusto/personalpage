@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { MainContainer } from "./styles";
+import { MainContainer } from "../styles/styles";
 
 const Home = () => {
   return (
